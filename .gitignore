@@ -215,4 +215,4 @@ __marimo__/
 # Text output files
 *.txt
 
-.DS_Store
+.DS_Store/
